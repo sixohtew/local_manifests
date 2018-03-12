@@ -5,5 +5,5 @@
   <project name="lineageos/android_device_qcom_common" path="device/qcom/common.mk" remote="github" revision="lineage-15.1" />
   <project name="aicp/device_google_wahoo" path="device/google/wahoo" remote="github" revision="o8.1" />
   <project name="aicp/proprietary_vendor_pixelgapps" path="vendor/pixelgapps" remote="github" revision="o8.1" />
-<project name="aicp/proprietary_vendor_google" path="vendor/google" remote="github" revision="o8.1" />
- </manifest>
+  <project name="aicp/proprietary_vendor_google" path="vendor/google" remote="github" revision="o8.1" />
+</manifest>
