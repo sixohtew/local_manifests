@@ -1,2 +1,2 @@
 # local_manifests
-roomservice for pixel 2 xl
+roomservice for various devices
