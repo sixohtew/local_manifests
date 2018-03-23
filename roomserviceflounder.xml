@@ -1,1 +1,7 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="SlimRoms/device_htc_flounder" path="device/htc/flounder" remote="github" revision="or8.1" />
+  <project name="SlimRoms/kernel_htc_flounder" path="kernel/htc/flounder" remote="github" revision="or8.1" />
+  <project name="themuppets/vendor_htc" path="vendor/htc" remote="github" revision="lineage-15.1" />
+  <project name="lineageos/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.1" />
+</manifest>
