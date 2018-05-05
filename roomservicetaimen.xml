@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="lineageos/android_device_google_taimen" path="device/google/taimen" remote="github" revision="lineage-15.1" />
-  <project name="nathanchance/wahoo" path="kernel/google/wahoo" remote="github" revision="oreo-mr2" />
+  <project name="nathanchance/wahoo" path="kernel/google/wahoo" remote="github" revision="oreo-m2" />
   <project name="lineageos/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.1" />
   <project name="lineageos/android_device_google_wahoo" path="device/google/wahoo" remote="github" revision="lineage-15.1" />
   <project name="aicp/proprietary_vendor_pixelgapps" path="vendor/pixelgapps" remote="github" revision="o8.1" />
